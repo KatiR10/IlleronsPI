@@ -1,0 +1,192 @@
+C:\Users\Katia\Documents\Técnico\Illerons\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Katia\Documents\Técnico\Illerons\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Katia\Documents\Técnico\Illerons\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Katia\Documents\Técnico\Illerons\bin\Debug\netcoreapp3.1\Illerons.exe
+C:\Users\Katia\Documents\Técnico\Illerons\bin\Debug\netcoreapp3.1\Illerons.deps.json
+C:\Users\Katia\Documents\Técnico\Illerons\bin\Debug\netcoreapp3.1\Illerons.runtimeconfig.json
+C:\Users\Katia\Documents\Técnico\Illerons\bin\Debug\netcoreapp3.1\Illerons.runtimeconfig.dev.json
+C:\Users\Katia\Documents\Técnico\Illerons\bin\Debug\netcoreapp3.1\Illerons.dll
+C:\Users\Katia\Documents\Técnico\Illerons\bin\Debug\netcoreapp3.1\Illerons.pdb
+C:\Users\Katia\Documents\Técnico\Illerons\bin\Debug\netcoreapp3.1\Illerons.Views.dll
+C:\Users\Katia\Documents\Técnico\Illerons\bin\Debug\netcoreapp3.1\Illerons.Views.pdb
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.csprojAssemblyReference.cache
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.AssemblyInfoInputs.cache
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.AssemblyInfo.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.csproj.CoreCompileInputs.cache
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.RazorAssemblyInfo.cache
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.RazorAssemblyInfo.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.TagHelpers.input.cache
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.TagHelpers.output.cache
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.RazorCoreGenerate.cache
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Home\Galeria.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.RazorTargetAssemblyInfo.cache
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.RazorTargetAssemblyInfo.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.Views.pdb
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\staticwebassets\Illerons.StaticWebAssets.Manifest.cache
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\staticwebassets\Illerons.StaticWebAssets.xml
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.dll
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.pdb
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.genruntimeconfig.cache
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Illerons.csproj.CopyComplete
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Home\Concluido.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Personalizados\CadastroPersonalizados.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Personalizados\EditarPersonalizados.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Personalizados\ListaPersonalizados.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroUsuario.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaUsuario.cshtml.g.cs
+C:\Users\Katia\Documents\Técnico\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Katia\Desktop\Illerons\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Katia\Desktop\Illerons\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Katia\Desktop\Illerons\bin\Debug\netcoreapp3.1\Illerons.exe
+C:\Users\Katia\Desktop\Illerons\bin\Debug\netcoreapp3.1\Illerons.deps.json
+C:\Users\Katia\Desktop\Illerons\bin\Debug\netcoreapp3.1\Illerons.runtimeconfig.json
+C:\Users\Katia\Desktop\Illerons\bin\Debug\netcoreapp3.1\Illerons.runtimeconfig.dev.json
+C:\Users\Katia\Desktop\Illerons\bin\Debug\netcoreapp3.1\Illerons.dll
+C:\Users\Katia\Desktop\Illerons\bin\Debug\netcoreapp3.1\Illerons.pdb
+C:\Users\Katia\Desktop\Illerons\bin\Debug\netcoreapp3.1\Illerons.Views.dll
+C:\Users\Katia\Desktop\Illerons\bin\Debug\netcoreapp3.1\Illerons.Views.pdb
+C:\Users\Katia\Desktop\Illerons\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.csprojAssemblyReference.cache
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.AssemblyInfoInputs.cache
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.AssemblyInfo.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.csproj.CoreCompileInputs.cache
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.RazorAssemblyInfo.cache
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.RazorAssemblyInfo.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.TagHelpers.input.cache
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.TagHelpers.output.cache
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.RazorCoreGenerate.cache
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Home\Concluido.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Home\Galeria.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Personalizados\CadastroPersonalizados.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Personalizados\EditarPersonalizados.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Personalizados\ListaPersonalizados.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroUsuario.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaUsuario.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.RazorTargetAssemblyInfo.cache
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.RazorTargetAssemblyInfo.cs
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.Views.pdb
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.csproj.CopyComplete
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\staticwebassets\Illerons.StaticWebAssets.Manifest.cache
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\staticwebassets\Illerons.StaticWebAssets.xml
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.dll
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.pdb
+C:\Users\Katia\Desktop\Illerons\obj\Debug\netcoreapp3.1\Illerons.genruntimeconfig.cache
+D:\Técnico - Trabalhos\Illerons PI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Técnico - Trabalhos\Illerons PI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Técnico - Trabalhos\Illerons PI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Técnico - Trabalhos\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.exe
+D:\Técnico - Trabalhos\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.deps.json
+D:\Técnico - Trabalhos\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.runtimeconfig.json
+D:\Técnico - Trabalhos\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.runtimeconfig.dev.json
+D:\Técnico - Trabalhos\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.dll
+D:\Técnico - Trabalhos\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.pdb
+D:\Técnico - Trabalhos\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.Views.dll
+D:\Técnico - Trabalhos\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.Views.pdb
+D:\Técnico - Trabalhos\Illerons PI\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.csprojAssemblyReference.cache
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.AssemblyInfoInputs.cache
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.AssemblyInfo.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.csproj.CoreCompileInputs.cache
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.MvcApplicationPartsAssemblyInfo.cache
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.RazorAssemblyInfo.cache
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.RazorAssemblyInfo.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.TagHelpers.input.cache
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.TagHelpers.output.cache
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.RazorCoreGenerate.cache
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Concluido.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Galeria.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Personalizados\CadastroPersonalizados.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Personalizados\EditarPersonalizados.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Personalizados\ListaPersonalizados.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroUsuario.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaUsuario.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.RazorTargetAssemblyInfo.cache
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.RazorTargetAssemblyInfo.cs
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.Views.pdb
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.csproj.CopyComplete
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\staticwebassets\Illerons.StaticWebAssets.Manifest.cache
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\staticwebassets\Illerons.StaticWebAssets.xml
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.dll
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.pdb
+D:\Técnico - Trabalhos\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.genruntimeconfig.cache
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.exe
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.deps.json
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.runtimeconfig.json
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.runtimeconfig.dev.json
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.dll
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.pdb
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.Views.dll
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\bin\Debug\netcoreapp3.1\Illerons.Views.pdb
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.csprojAssemblyReference.cache
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.AssemblyInfoInputs.cache
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.AssemblyInfo.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.csproj.CoreCompileInputs.cache
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.RazorAssemblyInfo.cache
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.RazorAssemblyInfo.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.TagHelpers.input.cache
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.TagHelpers.output.cache
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.RazorCoreGenerate.cache
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Concluido.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Galeria.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Personalizados\CadastroPersonalizados.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Personalizados\EditarPersonalizados.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Personalizados\ListaPersonalizados.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroUsuario.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaUsuario.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.RazorTargetAssemblyInfo.cache
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.RazorTargetAssemblyInfo.cs
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.Views.pdb
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.csproj.CopyComplete
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\staticwebassets\Illerons.StaticWebAssets.Manifest.cache
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\staticwebassets\Illerons.StaticWebAssets.xml
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.dll
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.pdb
+C:\Users\Katia\Desktop\projetosgit\Illerons PI\obj\Debug\netcoreapp3.1\Illerons.genruntimeconfig.cache

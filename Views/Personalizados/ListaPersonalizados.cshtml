@@ -1,0 +1,50 @@
+@model IEnumerable<Personalizados>
+@{
+    ViewData["Title"] = "Lista Personalizados";
+}
+<div>
+    <h2>Lista de Pedidos Personalizados</h2>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Data de Nascimento</th>
+            <th>Telefone</th>
+            <th>Email</th>
+            <th>Roupa</th>
+            <th>Detalhes</th>
+            <th>Usuario</th>
+            <th>Operações</th>
+        </tr>
+    </thead>
+    @foreach (Personalizados psr in Model)
+    {
+        <tr>
+            <td>@psr.Id</td>
+            <td>@psr.Nome</td>
+            <td>@psr.DataNascimento.ToShortDateString()</td>
+            <td>@psr.Telefone</td>
+            <td>@psr.Email</td>
+            <td>@psr.Roupa</td>
+            <td>@psr.Detalhes</td>
+            <td>@psr.Usuario</td>
+            <td>
+                <a href="/Personalizados/RemoverPersonalizados?Id=@psr.Id"
+                onclick="return confirm('Deseja remover?');">Remover</a>
+                <a href="/Personalizados/EditarPersonalizados?Id=@psr.Id">Alterar</a>
+            </td>
+        </tr>
+    }
+    <tbody>
+
+
+    </tbody>
+
+
+</table>
+<p>
+    @ViewBag.Mensagem
+</p>

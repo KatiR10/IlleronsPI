@@ -1,0 +1,67 @@
+@using Microsoft.AspNetCore.Http;
+
+
+
+@model Personalizados
+@{
+    ViewData["Title"] = "Cadastro Pedido";
+}
+
+<form method="POST" asp-action="CadastroPersonalizados">
+    <div>
+        <h2>Cadastrar Pedidos Personalizados</h2>
+
+    </div>
+    <input type="hidden" asp-for="Usuario" value=@Context.Session.GetInt32("IdUsuario")>
+    <p>
+        <label asp-for="Nome">Nome:</label>
+        <input asp-for="Nome" required />
+    </p>
+    <p>
+        <label asp-for="DataNascimento">Data de Nascimento:</label>
+        <input asp-for="DataNascimento" type="date" required />
+    </p>
+
+    <p>
+        <label asp-for="Telefone">Telefone:</label>
+        <input asp-for="Telefone" required />
+    </p>
+
+    <p>
+        <label asp-for="Email">E-mail:</label>
+        <input asp-for="Email" required />
+    </p>
+
+
+    <p>
+        <label asp-for="Roupa">Peça de Roupa:</label>
+        <select asp-for="Roupa">
+            <option value=""></option>
+            <option value="Camisa">Camisa</option>
+            <option value="Moletom">Moletom</option>
+            <option value="Calça">Calça</option>
+            <option value="Jaqueta">Jaqueta</option>
+            <option value="Short">Short</option>
+        </select>
+
+    </p>
+
+    <p>
+        <label asp-for="Detalhes">Detalhes do Pedido:</label>
+        <textarea asp-for="Detalhes" required></textarea>
+    </p>
+
+    <input type="submit" value="Cadastrar Pedido" />
+
+</form>
+
+<p>
+    @ViewBag.Mensagem
+</p>
+
+<footer>
+
+    <div>
+        <p>Site Oficial da Illeron's Fashion, faça aqui o seu cadastro e pedido.</p>
+    </div>
+</footer>
